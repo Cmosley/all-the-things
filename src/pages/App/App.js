@@ -172,6 +172,7 @@ class App extends Component {
               <a href="/the-manliest-things">Ben's Things</a><br/>
               <a href="/the-functional-things">Shahzad's Things</a><br/>
               <a href="/the-well-styled-things">David's Things</a><br/>
+              <a href="/the-texas-things">Christian's Things</a><br/>
               <a href="/jessicas-things">Jessica's Things</a><br/>
 
             </>
